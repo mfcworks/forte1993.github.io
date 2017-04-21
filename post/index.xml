@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Diary</title>
+    <link>https://forte1993.github.io/post/</link>
+    <description>Recent content in Posts on My New Diary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Fri, 21 Apr 2017 23:30:37 +0900</lastBuildDate>
+    
+	<atom:link href="https://forte1993.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>20170421</title>
+      <link>https://forte1993.github.io/post/20170421/</link>
+      <pubDate>Fri, 21 Apr 2017 23:30:37 +0900</pubDate>
+      
+      <guid>https://forte1993.github.io/post/20170421/</guid>
+      <description>はろー(o・ω・o)</description>
+    </item>
+    
+  </channel>
+</rss>
