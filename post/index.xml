@@ -6,10 +6,29 @@
     <description>Recent content in Posts on My New Diary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Fri, 21 Apr 2017 23:30:37 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 23 Apr 2017 21:58:22 +0900</lastBuildDate>
     
 	<atom:link href="https://forte1993.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>HDMI⇔DVI変換アダプター</title>
+      <link>https://forte1993.github.io/post/20170423/</link>
+      <pubDate>Sun, 23 Apr 2017 21:58:22 +0900</pubDate>
+      
+      <guid>https://forte1993.github.io/post/20170423/</guid>
+      <description>HDMI出力しか持たない機器からの映像を映す必要があり、HDMIに対応したモニタを 持っていなかったのでHDMI⇔DVI変換アダプターを買った。
+Amazonで300円弱だった。
+商品ページの説明ではエアキャップ(プチプチのこと)に入れて発送と書いてあったが、 エアキャップには包まれておらず普通のビニールのチャック袋に入ったものが茶封筒で届いた。
+早速使ってみたが、映りは問題なかったので簡単にレビューしておく。
+良かった点：
+ そこそこ安い。関東なら送料無料で90円とかいう破格の選択肢もあったが、 あいにく関東外で、その場合だと送料込みで最安のところより高くなってしまう。 結局全国送料無料のところで購入した。  悪かった点：
+ 僕の使っているディスプレイでは、DVI端子の位置関係上、モニタのスタンドと 干渉してしまいまっすぐ差さらなかった。壊れない程度に無理やり差し込むと少し 傾いて差さったが、映像に支障はない。
+ HDMIで映像も音声も送る機器と接続した場合、音声信号がなくなってしまう。 相手側の機器がHDMI以外の音声出力方法を持っていなかったので音は出せなかった。
+  とりあえず今回は最低限映像だけ欲しかったので、今回買ったもので十分だった。
+また今後Rasberry Piにディスプレイを繋いで遊ぶときにも使えそう。
+いつやるかは分からないけど。</description>
+    </item>
     
     <item>
       <title>20170421</title>

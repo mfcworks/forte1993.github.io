@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Diary</title>
-    <link>https://forte1993.github.io/</link>
-    <description>Recent content on My New Diary</description>
+    <title>買い物 on My New Diary</title>
+    <link>https://forte1993.github.io/tags/%E8%B2%B7%E3%81%84%E7%89%A9/</link>
+    <description>Recent content in 買い物 on My New Diary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Sun, 23 Apr 2017 21:58:22 +0900</lastBuildDate>
     
-	<atom:link href="https://forte1993.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://forte1993.github.io/tags/%E8%B2%B7%E3%81%84%E7%89%A9/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -28,15 +28,6 @@ Amazonで300円弱だった。
   とりあえず今回は最低限映像だけ欲しかったので、今回買ったもので十分だった。
 また今後Rasberry Piにディスプレイを繋いで遊ぶときにも使えそう。
 いつやるかは分からないけど。</description>
-    </item>
-    
-    <item>
-      <title>20170421</title>
-      <link>https://forte1993.github.io/post/20170421/</link>
-      <pubDate>Fri, 21 Apr 2017 23:30:37 +0900</pubDate>
-      
-      <guid>https://forte1993.github.io/post/20170421/</guid>
-      <description>はろー(o・ω・o)</description>
     </item>
     
   </channel>

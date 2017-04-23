@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://forte1993.github.io/post/20170423/</loc>
+    <lastmod>2017-04-23T21:58:22+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://forte1993.github.io/post/20170421/</loc>
     <lastmod>2017-04-21T23:30:37+09:00</lastmod>
   </url>
@@ -13,18 +18,24 @@
   
   <url>
     <loc>https://forte1993.github.io/</loc>
-    <lastmod>2017-04-21T23:30:37+09:00</lastmod>
+    <lastmod>2017-04-23T21:58:22+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://forte1993.github.io/post/</loc>
-    <lastmod>2017-04-21T23:30:37+09:00</lastmod>
+    <lastmod>2017-04-23T21:58:22+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://forte1993.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://forte1993.github.io/tags/%E8%B2%B7%E3%81%84%E7%89%A9/</loc>
+    <lastmod>2017-04-23T21:58:22+09:00</lastmod>
     <priority>0</priority>
   </url>
   
